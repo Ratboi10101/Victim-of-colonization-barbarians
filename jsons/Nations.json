@@ -5,6 +5,7 @@
         "innerColor": [185,12,12],
 		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
 			"[Water] units gain the [Unable to pillage tiles] promotion",
-			"[-10 Science] [in all cities] <before the [Modern era]>"]
+			"[-10 Science] [in all cities] <before the [Modern era]>",
+			"[2] free [Tribal Member] units appear <before the [Modern era]> <every [10] turns>"]
 	}
 ]
